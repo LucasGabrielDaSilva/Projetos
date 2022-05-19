@@ -12,8 +12,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
- <a href="https://picasion.com/"><img align="right"src="https://i.picasion.com/pic92/52ae93e057f697b8b5dec736440ed251.gif" width="100" height="100" border="0" alt="https://picasion.com/" /></a><br /><a href="https://picasion.com/">
- 
+<img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/lucas/Downloads/picasion.com_9a610d8d538e38c720b77bbbdbbac50f.gif">
 </div>
   ##
   
