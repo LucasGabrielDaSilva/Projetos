@@ -12,7 +12,7 @@
   <img align="center" alt="Lucas-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Lucas-C++" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-line.svg">
   <img align="center" alt="Lucas-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-<img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="file:///C:/Users/lucas/Downloads/picasion.com_9a610d8d538e38c720b77bbbdbbac50f.gif">
+<img align="right" alt="Lucas-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/976961047925760050/976961202200649799/lucas1.png">
 </div>
   ##
   
