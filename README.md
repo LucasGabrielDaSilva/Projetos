@@ -1,6 +1,8 @@
-## Olá! Eu sou o Lucas Gabriel Da Silva <p>
-🌱Estudando HTML, CSS, PHP, C#, SQL, e Kudolar<p>
-😄Pronomuns: Ele/Dele.<p>
+## Olá! Eu sou o Lucas Gabriel Da Silva<br>
+🌱Estudando HTML, CSS, PHP, C#, SQL, e Kudolar
+<br>
+😄Pronomuns: Ele/Dele.
+
  <a href="https://github.com/LucasGabrielDaSilva">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasGabrielDaSilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasGabrielDaSilva&layout=compact&langs_count=7&theme=algolia"/>
