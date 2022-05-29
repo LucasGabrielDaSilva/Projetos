@@ -1,5 +1,5 @@
 ## Olá! Eu sou o Lucas Gabriel Da Silva<br>
-🌱Estudando HTML, CSS, PHP, C#, SQL, e Kudolar
+🌱HTML, CSS, PHP, C#, SQL, e Kudolar
 <br>
 😄Pronomuns: Ele/Dele.
 
